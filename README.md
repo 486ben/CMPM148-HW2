@@ -17,13 +17,11 @@ I found four roommates to playtest my game.
 
 <h3>Discuss changes made after playtesting for stage 2:</h3> 
 Players: Diana, Bobby, and Min.
-<li>Diana: a beautiful lady with a knack for stealing and deception</li>
-<li>Bobby: a speed run killer, the character's skill is super easy to escape the fight from other players or sneak attack.</li>
-<li>Min: a notorious killer, the character's skill is to cause double treasure points of damage to enemy players</li>
-Feedback:
-<li>Diana enjoyed using her beauty scheme skills to outsmart Bobby's and Min's treasure points and steal items from them.</li>
-<li>Bobby dislikes the skills of the "beauty scheme", but he enjoys the way to sneak attack and get the treasure. Therefore he can also earn back the treasure point.</li>
-<li>Min felt that the skills of double treasure points of damage to enemy players make him earn a lot of treasure points, but that also mean he always got attacked by the others.</li>
+Diana enjoyed using her card skills to outsmart Bobby's and Min's treasure points and steal items from them.
+Bobby dislikes the card because he think it based on how lucky you are, but he enjoys the way to sneak attack and he can also earn back the treasure point.
+Min felt that the rule is clear, but it’s so based on your lucky, he is the only one who get the four cards of the same suit.
+Overall, the players enjoyed Stage 2 and felt that it was balanced and engaging. They suggested maybe adding more situations later because stage 2 should be more stimulating.
+
 
 
 <h3> The relationships between human players and game materials:</h3> 
