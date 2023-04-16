@@ -13,7 +13,7 @@ On this page, we do explain the setting, the game mechanics, and the general obj
 I found four roommates to playtest my game. 
 <li> One roommate Henry says the stage 1 "Scenario Day" have too many. (At first, we have ten stories), he says having too many scenario days will affect the game speed and increase the confusion.We decided to choose the 4 most easy scenarios.</li> 
 <li>One roommate Eric says that stage 1 has a scenario every day, which slows the speed a lot. He suggests maybe 4 days/per scenario. With his suggest, Stephen and I decided to use 3 days/per scenario.</li>
-<li> One roommate Justin says the stage 1 dice game is super fun and doable. (At first, we have ten stories), he says on stage 2, maybe I can use deck of cards: spades, hearts, clubs and diamonds. On that way, it make stage 1 and stage 2 unique!</li> 
+<li> One roommate Justin says the stage 1 dice game is super fun and doable. He suggests on stage 2, maybe I can use deck of cards: spades, hearts, clubs and diamonds. On that way, it make stage 1 and stage 2 unique! So I will use the deck of cards in stage 2.</li> 
 <li>"Stage 2 is more easy than Stage 1", My friend from computer sciences class suggest me make some insteresting change in stage 2</li>
 
 <h3> The relationships between human players and game materials:</h3> 
