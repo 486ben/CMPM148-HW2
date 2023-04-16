@@ -12,8 +12,7 @@ On this page, we do explain the setting, the game mechanics, and the general obj
 <h3>Discuss changes made after playtesting for:</h3> 
 I found two roommates to playtest my game. 
 <li> One roommate Henry says the stage 1 "Scenario Day" have too many. (At first, we have ten stories), he says having too many scenario days will affect the game speed and increase the confusion.We decided to choose the 4 most easy scenarios.</li> 
-<li>One roommate Eric says that stage 1 has a scenario every day, which slows the speed a lot. He suggests maybe 4 days/per scenario. With his suggest, Stephen and I decided to use 3 days/per scenario.<li>
-
+<li>One roommate Eric says that stage 1 has a scenario every day, which slows the speed a lot. He suggests maybe 4 days/per scenario. With his suggest, Stephen and I decided to use 3 days/per scenario.</li>
 <li>"Stage 2 is more easy than Stage 1", My friend from computer sciences class suggest me make some insteresting change in stage 2</li>
 
 <h3> The relationships between human players and game materials:</h3> 
