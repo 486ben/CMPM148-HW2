@@ -31,3 +31,5 @@ In this example, there are five human players (Player A, Player B, Player C, and
 <h3> Discuss the intended experience:</h3> 
 we hoped players would feel surprised when playing the game. In some of the scenarios day, the game narrator will give random situations to the player. Players will need to decide their own way, but we make the choice solution "think outside the box". This might include an impossible end. but we want player emotions to feel like excitement, fear, or satisfaction, or it might involve a sense of exploration or discovery.
 
+Unlike Stage 1 in our game, Stage 2 is a fast-paced game. The objective is straightforward: players need to use the cards they have to compete and steal treasure points from each other. We hoped players would be focused when playing the game because this might include an impossible end. If the player in Stage 1 has fewer treasure points, maybe the Stage 2 player has the most treasure point by vying with others. We want players' emotions to feel like anger and revenge. This might help them use their ability to gain more treasure points.
+
